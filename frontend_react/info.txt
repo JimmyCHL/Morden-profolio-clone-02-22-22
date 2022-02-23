@@ -1,0 +1,7 @@
+This app uses 
+framer-motion;
+node-sass;
+react-toolkit;
+Hoc skills
+
+to make the fully 
